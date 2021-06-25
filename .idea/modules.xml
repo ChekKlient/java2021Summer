@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algo/algo.iml" filepath="$PROJECT_DIR$/algo/algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hometask/hometask.iml" filepath="$PROJECT_DIR$/hometask/hometask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java2021Summer.iml" filepath="$PROJECT_DIR$/.idea/java2021Summer.iml" />
+    </modules>
+  </component>
+</project>

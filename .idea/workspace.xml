@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d4aff21-6e48-4d44-9bf5-08723cd23019" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/FirstTestLesson/src/Calculation/Arithmetics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstTestLesson/src/Test/TestArithmetics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/java2021Summer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java2021Summer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -16,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SnowPrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algo/src/SnowPrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestArithmetics.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestArithmetics.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FirstTestLesson/src/Test/TestArithmetics.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="293">
@@ -69,11 +58,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Main.java">
+      <file leaf-file-name="PracticalUseMVC_20170821.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/PracticalUseMVC_20170821.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/View.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+              <folding>
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#604#605#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+                <element signature="e#669#670#0" expanded="true" />
+                <element signature="e#1187#1188#0" expanded="true" />
+                <element signature="e#1219#1220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -83,24 +112,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Model.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Model.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/View.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -141,6 +152,10 @@
         <option value="$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Controller.java" />
         <option value="$PROJECT_DIR$/FirstTestLesson/src/Calculation/Arithmetics.java" />
         <option value="$PROJECT_DIR$/FirstTestLesson/src/Test/TestArithmetics.java" />
+        <option value="$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/View.java" />
+        <option value="$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Model.java" />
+        <option value="$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Main.java" />
+        <option value="$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Controller.java" />
       </list>
     </option>
   </component>
@@ -182,31 +197,6 @@
             <path>
               <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
               <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstTestLesson" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstTestLesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstTestLesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Calculation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstTestLesson" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
               <item name="PracticalUseMVC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -221,6 +211,56 @@
               <item name="PracticalUseMVC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="tef" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticalUseMVC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tef" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticalUseMVC_20170821" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticalUseMVC_20170821" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticalUseMVC_20170821" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itstep" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticalUseMVC_20170821" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itstep" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticalUseMVC_20170821" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itstep" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="PracticalUseMVC_20170821" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itstep" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
@@ -252,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.Test in java2021Summer">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Test in java2021Summer" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="java2021Summer" />
       <extension name="coverage">
@@ -275,6 +315,17 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.itstep.Main" />
+      <module name="java2021Summer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.itstep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.kpi.tef.Main" />
@@ -331,11 +382,13 @@
     <list>
       <item itemvalue="Android JUnit.Test in java2021Summer" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Android JUnit.Test in java2021Summer" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Android JUnit.Test in java2021Summer" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624964331280</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add JUnit expamples">
+      <created>1624970738814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624970738814</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -404,12 +464,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32985657" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32985657" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2025" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -429,7 +489,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Correct errors in Use MVC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Correct errors in Use MVC" />
+    <MESSAGE value="Add JUnit expamples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add JUnit expamples" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/algo/src/SnowPrinter.java">
@@ -459,20 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticalUseMVC/PracticalUseMVC.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -510,6 +557,59 @@
             <element signature="e#334#335#0" expanded="true" />
             <element signature="e#947#948#0" expanded="true" />
             <element signature="e#985#986#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/PracticalUseMVC_20170821.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticalUseMVC/PracticalUseMVC.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+          <folding>
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1219#1220#0" expanded="true" />
           </folding>
         </state>
       </provider>

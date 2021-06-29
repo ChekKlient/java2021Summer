@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d4aff21-6e48-4d44-9bf5-08723cd23019" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/FirstTestLesson/src/Calculation/Arithmetics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstTestLesson/src/Test/TestArithmetics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/java2021Summer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java2021Summer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Model.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,11 +25,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="533">
               <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Arithmetics.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstTestLesson/src/Calculation/Arithmetics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+              <folding>
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestArithmetics.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FirstTestLesson/src/Test/TestArithmetics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+                <element signature="e#985#986#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,6 +111,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Singleton" />
       </list>
     </option>
   </component>
@@ -104,6 +139,8 @@
         <option value="$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Model.java" />
         <option value="$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/View.java" />
         <option value="$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Controller.java" />
+        <option value="$PROJECT_DIR$/FirstTestLesson/src/Calculation/Arithmetics.java" />
+        <option value="$PROJECT_DIR$/FirstTestLesson/src/Test/TestArithmetics.java" />
       </list>
     </option>
   </component>
@@ -145,6 +182,31 @@
             <path>
               <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
               <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstTestLesson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstTestLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstTestLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Calculation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstTestLesson" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
               <item name="PracticalUseMVC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -169,10 +231,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -186,7 +252,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android JUnit.Test in java2021Summer">
+    <configuration name="Test in java2021Summer" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java2021Summer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.kpi.tef.Main" />
       <module name="java2021Summer" />
@@ -239,8 +328,13 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Android JUnit.Test in java2021Summer" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.Test in java2021Summer" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -256,7 +350,47 @@
       <option name="presentableId" value="Default" />
       <updated>1624533729370</updated>
     </task>
+    <task id="LOCAL-00001" summary="Correct errors in Use MVC">
+      <created>1624964331258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624964331280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_in_java2021Summer - 2021.06.29 at 14h 18m 46s.xml">
+      <configuration name="Test in java2021Summer" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_in_java2021Summer - 2021.06.29 at 14h 30m 11s.xml">
+      <configuration name="Test in java2021Summer" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_in_java2021Summer - 2021.06.29 at 14h 30m 34s.xml">
+      <configuration name="Test in java2021Summer" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_in_java2021Summer - 2021.06.29 at 14h 35m 08s.xml">
+      <configuration name="Test in java2021Summer" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_in_java2021Summer - 2021.06.29 at 14h 35m 13s.xml">
+      <configuration name="Test in java2021Summer" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_in_java2021Summer - 2021.06.29 at 14h 36m 44s.xml">
+      <configuration name="Test in java2021Summer" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_in_java2021Summer - 2021.06.29 at 14h 37m 30s.xml">
+      <configuration name="Test in java2021Summer" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_in_java2021Summer - 2021.06.29 at 14h 39m 08s.xml">
+      <configuration name="Test in java2021Summer" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_in_java2021Summer - 2021.06.29 at 15h 42m 55s.xml">
+      <configuration name="Test in java2021Summer" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_in_java2021Summer - 2021.06.29 at 15h 43m 14s.xml">
+      <configuration name="Test in java2021Summer" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -270,7 +404,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32985657" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32985657" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -292,6 +426,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Correct errors in Use MVC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Correct errors in Use MVC" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/algo/src/SnowPrinter.java">
@@ -342,6 +480,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="533">
           <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTestLesson/src/Calculation/Arithmetics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstTestLesson/src/Test/TestArithmetics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

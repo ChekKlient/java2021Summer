@@ -15,7 +15,7 @@ public Model()
 public void makeSentence(){
 	sentence = words[0] + " " + words[1];	
 }
-    public int getSentence() {
+    public String getSentence() {
         return sentence;
     }
 

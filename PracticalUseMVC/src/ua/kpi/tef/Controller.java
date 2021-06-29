@@ -1,5 +1,4 @@
-﻿package ua.kpi.tef;
-
+package ua.kpi.tef;
 import java.util.Scanner;
 
 /**
@@ -11,11 +10,11 @@ public class Controller {
     public static final int FOUR = 4;
 
     // The Regex
-    // «nick@mail.com»
+    // ?nick@mail.com?
     public static final String REGEX_MAIL = "^([a-z0-9_-]+\\.)*[a-z0-9_-]+@[a-z0-9_-]+(\\.[a-z0-9_-]+)*\\.[a-z]{2,6}$";
-    // «http://www.my-site.com»
+    // ?http://www.my-site.com?
     public static final String REGEX_URL = "^((https?|ftp)\\:\\/\\/)?([a-z0-9]{1})((\\.[a-z0-9-])|([a-z0-9-]))*\\.([a-z]{2,6})(\\/?)$";
-    // «+38(044)555-55-55»
+    // ?+38(044)555-55-55?
     public static final String REGEX_PHONE = "^\\+\\d{2}\\(\\d{3}\\)\\d{3}-\\d{2}-\\d{2}$";
   public static final String HELLO = "Hello";
   public static final String WORLD = "world!";
@@ -30,28 +29,24 @@ public class Controller {
     }
 
     // The Work method
-    public void processUser(){
+    public void processUser() {
         Scanner sc = new Scanner(System.in);
 
+        view.printMessage(View.INPUT_DATA);
         model.setWord(0, inputValueWithScanner(sc, HELLO));
         model.setWord(1, inputValueWithScanner(sc, WORLD));
         model.makeSentence();
 
-        view.printMessageAndValue(View.OUR_SENTENCE , model.getSentence());
+        view.printMessageAndValue(View.OUR_SENTENCE, model.getSentence());
     }
 
     // The Utility methods
-    public int inputIntValueWithScanner(Scanner sc, String correctValue) {
-        view.printMessage(View.INPUT_INT_DATA);
-        while( ! sc.hasNext()) {
+    public String inputValueWithScanner(Scanner sc, String correctValue) {
+        String value = sc.next();
+        if (!value.equals(correctValue)) {
             view.printMessage(View.WRONG_INPUT_DATA + View.INPUT_DATA);
-	return "";
+            return "";
         }
-	String value = sc.next();
-if(!value.equal(correctValue)){
-           view.printMessage(View.WRONG_INPUT_DATA + View.INPUT_DATA);
-	return "";
-}
-        return sc.next();
+        return value;
     }
 }

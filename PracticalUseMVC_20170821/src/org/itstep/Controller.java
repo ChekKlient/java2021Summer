@@ -1,5 +1,7 @@
 package org.itstep;
 
+import com.sun.org.apache.xpath.internal.operations.Mod;
+
 import java.util.Scanner;
 
 public class Controller {
@@ -27,6 +29,11 @@ public class Controller {
             else view.printMessage(View.INPUT_LESS_THEN_CODE);
         }
         view.printMessage(View.INPUT_EQUAL_CODE);
+        int[] history = model.getHistory();
+        view.printMessage(View.NUMBER_ATTEMPTS + history.length);
+        for (int i = 0; i < history.length; i++) {
+            view.printMessage(View.ATTEMPT + (i+1) + View.IS + history[i]);
+        }
     }
 
         // The Utility methods

@@ -1,7 +1,7 @@
 package com.company.model;
 
 /**
- * Created by student on 26.09.2017.
+ * Created by Igor on 09.07.2021.
  */
 public class Model {
 }

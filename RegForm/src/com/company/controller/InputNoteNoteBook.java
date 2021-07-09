@@ -17,6 +17,8 @@ public class InputNoteNoteBook {
     private Scanner sc;
 
     private String firstName;
+    private String secondName;
+    private String Name;
     private String login;
 
     public InputNoteNoteBook(View view, Scanner sc) {
@@ -33,6 +35,9 @@ public class InputNoteNoteBook {
         this.firstName =
                 utilityController.inputStringValueWithScanner
                         (FIRST_NAME, str);
+        this.secondName =
+                   utilityController.inputStringValueWithScanner
+                           (SECOND_NAME, str);
         this.login =
                 utilityController.inputStringValueWithScanner
                         (LOGIN_DATA, REGEX_LOGIN);

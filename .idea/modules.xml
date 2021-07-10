@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/00_AccessModifiers/00_AccessModifiers.iml" filepath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/00_AccessModifiers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/00_Enum/00_Enum.iml" filepath="$PROJECT_DIR$/OOP examples/00_Enum/00_Enum.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation.iml" filepath="$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/02_InitializationClass/02_InitializationClass.iml" filepath="$PROJECT_DIR$/OOP examples/02_InitializationClass/02_InitializationClass.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/03_CreateChildClass/03_CreateChildClass.iml" filepath="$PROJECT_DIR$/OOP examples/03_CreateChildClass/03_CreateChildClass.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/04_Equals&amp;HashCode/04_Equals&amp;HashCode.iml" filepath="$PROJECT_DIR$/OOP examples/04_Equals&amp;HashCode/04_Equals&amp;HashCode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/05_Clone/05_Clone.iml" filepath="$PROJECT_DIR$/OOP examples/05_Clone/05_Clone.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/07_Polimorphism_01.iml" filepath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/07_Polimorphism_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/07_Polimorphism_02.iml" filepath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/07_Polimorphism_02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/12_IntefacesWork/12_IntefacesWork.iml" filepath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/12_IntefacesWork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/AbstractInterfaces.iml" filepath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/AbstractInterfaces.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/DriverCarIntr.iml" filepath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/DriverCarIntr.iml" />
+      <module fileurl="file://$PROJECT_DIR$//ClassFuters.iml" filepath="$PROJECT_DIR$//ClassFuters.iml" />
       <module fileurl="file://$PROJECT_DIR$/FirstTestLesson/FirstTestLesson.iml" filepath="$PROJECT_DIR$/FirstTestLesson/FirstTestLesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticalUseMVC/PracticalUseMVC.iml" filepath="$PROJECT_DIR$/PracticalUseMVC/PracticalUseMVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticalUseMVC_20170821/PracticalUseMVC_20170821.iml" filepath="$PROJECT_DIR$/PracticalUseMVC_20170821/PracticalUseMVC_20170821.iml" />
       <module fileurl="file://$PROJECT_DIR$/RegForm/RegForm.iml" filepath="$PROJECT_DIR$/RegForm/RegForm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/Shape.iml" filepath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/Shape.iml" />
       <module fileurl="file://$PROJECT_DIR$/algo/algo.iml" filepath="$PROJECT_DIR$/algo/algo.iml" />
     </modules>
   </component>

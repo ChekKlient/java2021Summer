@@ -1,214 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4638487a-0f1e-4172-9768-1c9c8ecb9de1" name="Default" comment="initial load src">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstTestLesson/FirstTestLesson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/00_AccessModifiers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/AccessModifiers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/src/ua/kpi/otherPackadge/OtherChildClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/src/ua/kpi/otherPackadge/OtherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/src/ua/kpi/tef/ChildClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/src/ua/kpi/tef/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/src/ua/kpi/tef/OtherClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/src/ua/kpi/tef/ParentClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_AccessModifiers/src/ua/kpi/tef/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/00_Enum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/src/ua/kpi/tef/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/src/ua/kpi/tef/ColorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/src/ua/kpi/tef/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/src/ua/kpi/tef/Pixel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/00_Enum/src/ua/kpi/tef/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation_01/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation_02/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation_03/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Инкапсуляция.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/02_InitializationClass/02_InitializationClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/02_InitializationClass/02_InitializationClass_01/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/02_InitializationClass/02_InitializationClass_02/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/03_CreateChildClass/03_CreateChildClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/03_CreateChildClass/03_CreateChildClass_01/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/03_CreateChildClass/03_CreateChildClass_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/03_CreateChildClass/03_CreateChildClass_01/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/03_CreateChildClass/Создание класса_наследника.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/04_Equals&amp;HashCode/04_Equals&amp;HashCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/04_Equals&amp;HashCode/04_Equals&amp;HashCode/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/04_Equals&amp;HashCode/04_Equals&amp;HashCode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/04_Equals&amp;HashCode/04_Equals&amp;HashCode/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/04_Equals&amp;HashCode/04_Equals&amp;HashCode_02/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/04_Equals&amp;HashCode/04_Equals&amp;HashCode_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/04_Equals&amp;HashCode/04_Equals&amp;HashCode_02/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/04_Equals&amp;HashCode/Инициализация класса - equals и hashCode.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/05_Clone/05_Clone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/05_Clone/05_Clone/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/05_Clone/05_Clone/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/05_Clone/05_Clone_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/05_Clone/05_Clone_02/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/05_Clone/05_Clone_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/05_Clone/05_Clone_03/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/05_Clone/05_Clone_04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/05_Clone/05_Clone_04/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/05_Clone/Инициализация класса Метод Clone.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/07_Polimorphism_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/src/ua/kpi/tef/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/src/ua/kpi/tef/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/src/ua/kpi/tef/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_01/src/ua/kpi/tef/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/07_Polimorphism_02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/src/ua/kpi/tef/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/src/ua/kpi/tef/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/src/ua/kpi/tef/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/07_Polymorphism/07_Polimorphism_02/src/ua/kpi/tef/Subtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/Shape.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/src/ua/kpi/tef/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/src/ua/kpi/tef/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/src/ua/kpi/tef/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/src/ua/kpi/tef/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/08_UseOthersClass/Shape/src/ua/kpi/tef/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/.idea/scopes/scope_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/AbstractInterfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/look/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/look/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/look/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/look/Salable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/look/SellablePet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/look/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/multi/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/multi/inheritance/ArmoredVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/multi/inheritance/GroundTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/multi/inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/multi/inheritance/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/multi/inheritance/UBoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/multi/inheritance/WaterTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/multi/inheritance/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/transport/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/transport/GroundTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/transport/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/transport/TransportMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/transport/UBoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/transport/WaterTransport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/10_Abstract&amp;Interface/AbstractInterfaces/src/com/company/transport/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/.idea/scopes/scope_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/DriverCarIntr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/src/com/company/entities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/src/com/company/entities/DriverLicense.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/src/com/company/entities/GasolineCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/src/com/company/entities/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/src/com/company/entities/Route.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/src/com/company/entities/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/11_Association/DriverCarIntr/src/com/company/entities/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/12_IntefacesWork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/IntefacesWork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/lamp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/lamp/entity/ElectricityConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/lamp/entity/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/lamp/entity/Switcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/lamp/entity/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/training/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/training/entity/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/training/entity/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/training/entity/HumanDoctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/training/entity/HumanLicence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/training/entity/LicenceDoctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/training/entity/LicenseForTreatment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP examples/12_IntefacesWork/src/ua/training/entity/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/RegForm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/Test20170926.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/src/com/company/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/src/com/company/controller/InputNoteNoteBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/src/com/company/controller/RegexContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/src/com/company/controller/UtilityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/src/com/company/model/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/src/com/company/view/TextConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/src/com/company/view/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/src/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegForm/src/messages_ua.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalUseMVC_20170821/src/desktop.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/desktop.ini" beforeDir="false" />
+    <list default="true" id="4638487a-0f1e-4172-9768-1c9c8ecb9de1" name="Default" comment="add second name">
+      <change afterPath="$PROJECT_DIR$/ClassFuters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassFuters/Age.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassFuters/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstTestLesson/FirstTestLesson.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstTestLesson/FirstTestLesson.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegForm/src/messages_ua.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RegForm/src/messages_ua.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/PracticalUseMVC/dst/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -220,53 +20,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/View.java">
+      <file leaf-file-name="TestArithmetics.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstTestLesson/src/Test/TestArithmetics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="18" selection-start-line="17" selection-start-column="1" selection-end-line="18" />
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
               <folding>
-                <element signature="e#856#857#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+                <element signature="e#985#986#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Controller.java">
+      <file leaf-file-name="messages.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RegForm/src/messages.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Model.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Model.java">
+      <file leaf-file-name="messages_ua.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RegForm/src/messages_ua.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="46" column="39" selection-start-line="46" selection-start-column="39" selection-end-line="46" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/src/org/itstep/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegexContainer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/controller/RegexContainer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -274,17 +54,42 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/controller/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="327">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/Main.java">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ClassFuters/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="90">
+              <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+              <folding>
+                <element signature="e#707#708#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#794#795#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+                <element signature="e#848#849#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Age.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassFuters/Age.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="25" />
+              <folding>
+                <element signature="e#65#66#0" expanded="true" />
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#149#150#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -292,17 +97,29 @@
       <file leaf-file-name="InputNoteNoteBook.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/controller/InputNoteNoteBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="176">
+              <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation_01/Main.java">
+      <file leaf-file-name="TextConstant.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/view/TextConstant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="136">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/model/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -321,17 +138,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Singleton" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>tef</find>
+      <find>%u</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>\u</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\File\Google Drive\Java\java2021Summer\HomeTask</dir>
@@ -344,6 +163,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/RegForm/src/com/company/model/Model.java" />
+        <option value="$PROJECT_DIR$/RegForm/src/com/company/controller/RegexContainer.java" />
+        <option value="$PROJECT_DIR$/RegForm/src/com/company/controller/InputNoteNoteBook.java" />
+        <option value="$PROJECT_DIR$/RegForm/src/com/company/view/TextConstant.java" />
+        <option value="$PROJECT_DIR$/RegForm/src/messages.properties" />
+        <option value="$PROJECT_DIR$/RegForm/src/messages_ua.properties" />
+        <option value="$PROJECT_DIR$/RegForm/src/com/company/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/ClassFuters/Age.java" />
+        <option value="$PROJECT_DIR$/ClassFuters/Student.java" />
       </list>
     </option>
   </component>
@@ -366,36 +194,48 @@
           <expand>
             <path>
               <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticalUseMVC_20170821" type="462c0819:PsiDirectoryNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PracticalUseMVC_20170821" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassFuters" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassFuters" type="462c0819:PsiDirectoryNode" />
+              <item name="Student" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
               <item name="RegForm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
               <item name="RegForm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RegForm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
               <item name="RegForm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
+              <item name="RegForm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java2021Summer" type="462c0819:PsiDirectoryNode" />
               <item name="RegForm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
@@ -405,16 +245,65 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java2021Summer" type="58d84e3e:PackageViewProjectNode" />
+              <item name="RegForm" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="java2021Summer" type="58d84e3e:PackageViewProjectNode" />
+              <item name="RegForm" type="616d4139:PackageViewModuleNode" />
+              <item name="c.c.controller" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Default">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="RegForm" type="cbb8eebc:String" user="RegForm" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="RegForm" type="cbb8eebc:String" user="RegForm" />
+              <item name="RegForm" type="cbb8eebc:String" user="RegForm" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="RegForm" type="cbb8eebc:String" user="RegForm" />
+              <item name="RegForm" type="cbb8eebc:String" user="RegForm" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="RegForm" type="cbb8eebc:String" user="RegForm" />
+              <item name="RegForm" type="cbb8eebc:String" user="RegForm" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="com/company/controller" type="cbb8eebc:String" user="com/company/controller" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\File\Google Drive\Java\java2021Summer\" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -428,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Test in java2021Summer" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="java2021Summer" />
       <extension name="coverage">
@@ -463,6 +352,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="RegForm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.kpi.tef.Main" />
       <module name="java2021Summer" />
@@ -493,6 +393,16 @@
       </option>
       <patterns />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="00_AccessModifiers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -519,9 +429,11 @@
       <item itemvalue="Android JUnit.Test in java2021Summer" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Android JUnit.Test in java2021Summer" />
@@ -546,19 +458,19 @@
       <option name="project" value="LOCAL" />
       <updated>1625065377815</updated>
     </task>
-    <task id="LOCAL-00002" summary="Add JUnit expamples">
-      <created>1624970738814</created>
+    <task id="LOCAL-00002" summary="initial load src">
+      <created>1625841014861</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1624970738814</updated>
+      <updated>1625841014861</updated>
     </task>
-    <task id="LOCAL-00003" summary="Make second lesson game">
-      <created>1624977862795</created>
+    <task id="LOCAL-00003" summary="add second name">
+      <created>1625842329365</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1624977862796</updated>
+      <updated>1625842329365</updated>
     </task>
     <task id="LOCAL-00004" summary="Make second lesson game">
       <created>1624977960828</created>
@@ -581,15 +493,16 @@
       <option name="project" value="LOCAL" />
       <updated>1625064698758</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32985657" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32985657" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -600,7 +513,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993481" visible="true" weight="0.383125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993481" visible="true" weight="0.383125" />
       <window_info id="Structure" order="1" sideWeight="0.5006519" side_tool="true" weight="0.2025" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -621,7 +534,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore" />
     <MESSAGE value="initial load src" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial load src" />
+    <MESSAGE value="add second name" />
+    <option name="LAST_COMMIT_MESSAGE" value="add second name" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PracticalUseMVC/src/ua/kpi/tef/Controller.java">
@@ -818,18 +732,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstTestLesson/src/Test/TestArithmetics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#985#986#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PracticalUseMVC_20170821/PracticalUseMVC_20170821.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -881,6 +783,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation_01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/controller/RegexContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/controller/UtilityController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -888,10 +811,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/controller/Controller.java">
+    <entry file="file://$PROJECT_DIR$/FirstTestLesson/src/Test/TestArithmetics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding>
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -902,31 +829,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/controller/RegexContainer.java">
+    <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/model/Model.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="51">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/view/TextConstant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="654">
-          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/src/messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/src/messages_ua.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassFuters/Age.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RegForm/src/com/company/controller/InputNoteNoteBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="176">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOP examples/01_Encapsulation/01_Encapsulation_01/Main.java">
+    <entry file="file://$PROJECT_DIR$/ClassFuters/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="90">
+          <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+          <folding>
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -982,7 +956,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Shape</last-edited>
+          <last-edited>algo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

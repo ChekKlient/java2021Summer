@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
+<head>
+    <div th:replace="fragments/header :: header-css"/>
+    <meta charset="UTF-8"/>
+    <title>Courseware application</title>
+</head>
+<body>
+<div th:replace="fragments/header :: body"/>
+
+<div class="container my-2">
+    <h1>Edit topic</h1>
+    <form action="#" th:action="@{/topics-edit}" th:object="${topic}" method="post">
+        <input type="hidden" th:field="*{id}" class="form-control"/>
+        <label for="name">Description</label>
+        <input type="text" th:field="*{name}" id="name" placeholder="name">
+        <input type="submit" value="Update topic">
+    </form>
+</div>
+<div th:replace="fragments/footer :: body"/>
+</body>
+</html>

@@ -16,7 +16,6 @@ public class StudentsController {
     public String viewStudents(Model model){
         model.addAttribute("listStudents", studentService.getAllStudents());
         return "/students";
-
     }
 
 }

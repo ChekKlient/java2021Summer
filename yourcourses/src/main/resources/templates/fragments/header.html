@@ -1,0 +1,80 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      th:lang="${#locale.language}"
+      xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
+<head>
+    <div th:fragment="header-css">
+        <!-- CSS only -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+        <meta charset="UTF-8"/>
+        <title th:text="#{home.title}">Java Summer 2021 Project</title>
+    </div>
+</head>
+<body>
+<div th:fragment="body">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+        <div class="container">
+            <a class="navbar-brand" href="/" th:text="#{home.title}">Courses for you</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                    aria-controls="navbarResponsive"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item" sec:authorize="isAuthenticated()">
+                        <a class="nav-link" sec:authorize="hasRole('ROLE_ADMIN')" th:href="@{/topics}" th:text="#{menu.topics}">Topics</a>
+                    </li>
+                    <li class="nav-item" sec:authorize="isAuthenticated()">
+                        <a class="nav-link" th:href="@{/education_courses}" th:text="#{menu.educationCourses}">Courses</a>
+                    </li>
+                    <li class="nav-item" sec:authorize="isAuthenticated()">
+                        <a class="nav-link" sec:authorize="hasRole('ROLE_STUDENT')" th:href="@{/courses(mode=current)}" th:text="#{menu.courses.current}">Current courses</a>
+                    </li>
+                    <li class="nav-item" sec:authorize="isAuthenticated()">
+                        <a class="nav-link" sec:authorize="hasRole('ROLE_STUDENT')" th:href="@{/courses(mode=notstarted)}" th:text="#{menu.courses.notstarted}">Not started</a>
+                    </li>
+                    <li class="nav-item" sec:authorize="isAuthenticated()">
+                        <a class="nav-link" sec:authorize="hasRole('ROLE_STUDENT')" th:href="@{/courses(mode=passed)}" th:text="#{menu.courses.passed}">Passed</a>
+                    </li>
+                    <li class="nav-item" sec:authorize="isAuthenticated()">
+                        <a class="nav-link" sec:authorize="hasRole('ROLE_TEACHER')" th:href="@{/courses(mode=my_courses)}" th:text="#{menu.courses.myCourses}">My courses</a>
+                    </li>
+                    <li class="nav-item" sec:authorize="isAuthenticated()">
+                        <a class="nav-link" sec:authorize="hasRole('ROLE_ADMIN')" th:href="@{/teachers}" th:text="#{menu.teachers}">Teachers</a>
+                    </li>
+                    <li class="nav-item" sec:authorize="isAuthenticated()">
+                        <a class="nav-link" sec:authorize="hasRole('ROLE_ADMIN')" th:href="@{/students}" th:text="#{menu.students}">Students</a>
+                    </li>
+                    <li class="nav-item" sec:authorize="isAuthenticated()">
+                        <a class="nav-link" sec:authorize="hasRole('ROLE_ADMIN')" th:href="@{/users}" th:text="#{menu.users}">Users</a>
+                    </li>
+                    <li class="nav-item" sec:authorize="isAuthenticated()">
+                        <a class="nav-link" th:href="@{/cabinet}" th:text="#{menu.cabinet}">My cabinet</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" sec:authorize="isAuthenticated()" th:href="@{/logout}" th:text="#{menu.logout}">Logout</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" sec:authorize="isAnonymous()" th:href="@{/sign-in}" th:text="#{menu.login}">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" sec:authorize="isAnonymous()" th:href="@{/sign-up}" th:text="#{menu.register}">Register</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                           th:text="${#strings.toUpperCase(#locale)}">
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item" th:href="@{${#httpServletRequest.requestURI}(lang=en)}">English</a>
+                            <a class="dropdown-item" th:href="@{${#httpServletRequest.requestURI}(lang=ua)}">Ukraine</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+</body>
+</html>
